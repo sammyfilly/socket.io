@@ -5,7 +5,7 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@fails-components/webtransport": "^0.1.7",
+    "@fails-components/webtransport": "^0.2.2",
     "socket.io": "^4.7.1"
   }
 }
